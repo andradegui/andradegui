@@ -2,7 +2,7 @@
 
 ## I´m Guilherme Lima
 
-- I live in 🇧🇷, SP(São Paulo) 	:grinning:	:v:
+- I live in :brazil:, SP(São Paulo) 	:grinning:	:v:
 - I have been working on Noovi as IT Intern 	:technologist:
 - Lately I have been learning HMTL, CSS and JS 	:nerd_face:
 
