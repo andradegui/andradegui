@@ -1,10 +1,12 @@
 ## Hello Guys! 
 
-## I´m Guilherme Lima
+## I´m Guilherme Lima 	:smiley:	:v:
 
-- I live in Brazil, SP (São Paulo) 	:grinning:	:v:
-- I have been working on Noovi as IT Intern 	:technologist:
-- Lately I have been learning HMTL, CSS and JS 	:nerd_face:
+- I live in Brazil, SP (São Paulo) :brazil:	
+- I have been working on Noovi as IT Intern 	
+- At college I study Technology in Systems For Internet
+- I like study English and Spanish
+- Lately I have been learning HMTL, CSS and JS 	
 
 ## Connect with me: 
 <a href="https://www.linkedin.com/in/guilherme-rafael-andrade-lima-426a16188/" target="blank">
@@ -20,6 +22,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="HTML" height="30" width="40" style="max-width:100%"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="HTML" height="30" width="40" style="max-width:100%"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="HTML" height="30" width="40" style="max-width:100%"></img>
+
+
+
 
 
 <!--
