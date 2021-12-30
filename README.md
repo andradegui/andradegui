@@ -5,8 +5,8 @@
 - I live in Brazil, SP (São Paulo) 
 - I have been working on Noovi as IT Intern 	
 - At college I study Technology in Systems For Internet
-- I like study English and Spanish
-- Lately I have been learning HMTL, CSS and JS 	
+- I like to study English and Spanish
+- Lately I have been learning HMTL, CSS, JS and PHP 	
 
 ## Connect with me: 
 <a href="https://www.linkedin.com/in/guilherme-rafael-andrade-lima-426a16188/" target="blank">
