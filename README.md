@@ -3,7 +3,7 @@
 ## I´m Guilherme Lima 	:smiley:	:v:
 
 - I live in Brazil, SP (São Paulo) 
-- I have been working on Noovi as IT Intern 	
+- I have been working on Receiv as IT Intern 	
 - At college I study Technology in Systems For Internet
 - I like to study English and Spanish
 - Lately I have been learning JS, TS, PHP, Laravel and Angular 	
