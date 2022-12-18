@@ -1,7 +1,3 @@
-## Hello Guys! 
-
-## I´m Guilherme Lima 	:smiley:	:v:
-
 - I live in Brazil, SP (São Paulo) 
 - I have been working on Receiv as IT Intern 	
 - At college I study Technology in Systems For Internet
