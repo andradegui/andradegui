@@ -4,7 +4,7 @@
 - Estudante de Inglês
 - Recentemente tenho estudado: JS, TS, PHP, Laravel e Angular 	
 
-## Linkedin: 
+## Linkedin 
 
 <a href="https://www.linkedin.com/in/guilherme-rafael-andrade-lima-426a16188/" target="blank">
 <img align="center" alt="guilherme-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
