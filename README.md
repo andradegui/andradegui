@@ -1,8 +1,8 @@
 - São Paulo, SP
-- Atuando como estagiário de desenvolvimento na <a href="https://www.receiv.it/">Receiv</a>
-- At college I study Technology in Systems For Internet
-- I like to study English and Spanish
-- Lately I have been learning JS, TS, PHP, Laravel and Angular 	
+- Atuando como desenvolvedor na <a href="https://www.receiv.it/">Receiv</a>
+- Cursando tecnólogo em Sistemas pra Internet
+- Estudante de Inglês
+- Recentemente tenho estudado: JS, TS, PHP, Laravel e Angular 	
 
 ## Linkedin: 
 
@@ -19,6 +19,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="HTML" height="30" width="40" style="max-width:100%"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="HTML" height="30" width="40" style="max-width:100%"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="HTML" height="30" width="40" style="max-width:100%"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="HTML" height="30" width="40" style="max-width:100%"></img>
+
 
  
 
