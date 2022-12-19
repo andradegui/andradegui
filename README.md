@@ -1,5 +1,5 @@
-- SP, São Paulo
-- Atuando como estagiário de desenvolvimento na Receiv <a href="https://www.receiv.it/">
+- São Paulo, SP
+- Atuando como estagiário de desenvolvimento na <a href="https://www.receiv.it/" Receiv>
 - At college I study Technology in Systems For Internet
 - I like to study English and Spanish
 - Lately I have been learning JS, TS, PHP, Laravel and Angular 	
