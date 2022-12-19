@@ -9,7 +9,7 @@
 <img align="center" alt="guilherme-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
 </a>
 
-## My Skills 
+## Skills 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" height="30" width="40" style="max-width:100%"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="HTML" height="30" width="40" style="max-width:100%"></img>
@@ -19,11 +19,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="HTML" height="30" width="40" style="max-width:100%"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="HTML" height="30" width="40" style="max-width:100%"></img>
 
- <div>
-  <a href="https://github.com/andradegui">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andradegui&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradegui&layout=compact&langs_count=7&theme=dark"/>
-</div>
+ 
 
 
 
