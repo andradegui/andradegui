@@ -1,10 +1,11 @@
-- I live in Brazil, SP (São Paulo) 
-- I have been working on Receiv as IT Intern 	
+- SP, São Paulo
+- Atuando como estagiário de desenvolvimento na Receiv <a href="https://www.receiv.it/">
 - At college I study Technology in Systems For Internet
 - I like to study English and Spanish
 - Lately I have been learning JS, TS, PHP, Laravel and Angular 	
 
-## Connect with me: 
+## Linkedin: 
+
 <a href="https://www.linkedin.com/in/guilherme-rafael-andrade-lima-426a16188/" target="blank">
 <img align="center" alt="guilherme-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
 </a>
