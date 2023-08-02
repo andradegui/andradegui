@@ -1,8 +1,8 @@
 - São Paulo, SP
 - Atuando como desenvolvedor na <a href="https://www.receiv.it/">Receiv</a>
-- Cursando tecnólogo em Sistemas pra Internet
-- Estudante de Inglês
-- Recentemente tenho estudado: JS, TS, PHP, Laravel e Angular 	
+- Formado em Tecnólogo em Sistemas pra Internet
+- Estudante de Inglês e Espanhol
+- Recentemente tenho estudado: C# e Angular
 
 ## Linkedin 
 
