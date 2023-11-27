@@ -1,8 +1,8 @@
 - São Paulo, SP;
 - Atuando como <strong>analistas de sistemas</strong> na <a href="https://www.castgroup.com.br/">Cast Group</a>;
-- Formado em Tecnólogo em Sistemas pra Internet
-- Estudante de Inglês e Espanhol
-- Recentemente tenho estudado: Symfony e Yii
+- Formado em Tecnólogo em Sistemas pra Internet;
+- Estudante de Inglês e Espanhol;
+- Recentemente tenho estudado: Symfony e Yii.
 
 ## Linkedin 
 
@@ -26,6 +26,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="HTML" height="30" width="40" style="max-width:100%"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="HTML" height="30" width="40" style="max-width:100%"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="HTML" height="30" width="40" style="max-width:100%"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="HTML" height="30" width="40" style="max-width:100%"></img>
 
 
 
