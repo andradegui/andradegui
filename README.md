@@ -1,8 +1,8 @@
 - São Paulo, SP
-- Atuando como desenvolvedor na <a href="https://www.receiv.it/">Receiv</a>
+- Atuando como analistas de sistemas na <a href="https://www.castgroup.com.br/">Cast Group</a>
 - Formado em Tecnólogo em Sistemas pra Internet
 - Estudante de Inglês e Espanhol
-- Recentemente tenho estudado: C# e Angular
+- Recentemente tenho estudado: Symfony e Yii
 
 ## Linkedin 
 
