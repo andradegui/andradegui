@@ -1,5 +1,5 @@
 - São Paulo, SP;
-- Atuando como <bold>analistas de sistemas</bold> na <a href="https://www.castgroup.com.br/">Cast Group</a>;
+- Atuando como <strong>analistas de sistemas</strong> na <a href="https://www.castgroup.com.br/">Cast Group</a>;
 - Formado em Tecnólogo em Sistemas pra Internet
 - Estudante de Inglês e Espanhol
 - Recentemente tenho estudado: Symfony e Yii
