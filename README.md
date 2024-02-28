@@ -1,7 +1,7 @@
 - São Paulo, SP;
 - Formado em Tecnólogo em Sistemas pra Internet;
 - Estudante de Inglês e Espanhol;
-- Recentemente tenho estudado: Symfony e Yii.
+- Recentemente tenho estudado: Laravel, Symfony e Yii.
 
 ## Linkedin 
 
